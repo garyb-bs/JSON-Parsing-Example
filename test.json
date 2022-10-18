@@ -1,0 +1,32 @@
+{
+  "auth": {
+    "browserstack_username": "BROWSERSTACK_USERNAME",
+    "browserstack_access_key": "BROWSERSTACK_ACCESS_KEY"
+  },
+  "browsers": [
+    {
+      "browserName": "Chrome",
+      "browser_version": "latest",
+      "os": "Windows",
+      "osversion": "11"
+    },
+    {
+      "browserName": "Chrome",
+      "browser_version": "97.0",
+      "os": "Windows",
+      "osversion": "10"
+    },
+    {
+      "browserName": "Edge",
+      "browser_version": "latest",
+      "os": "Windows",
+      "osversion": "10"
+    },
+    {
+      "browserName": "Firefox",
+      "browser_version": "latest",
+      "os": "OS X",
+      "osversion": "Monterey"
+    }
+  ]
+}
